@@ -11,3 +11,6 @@ Of multitude things I've published opensource I think you should be mostly inter
 - 🚀 [latermom](https://github.com/Prozi/latermom)
 - 🚀 [detect-collisions](https://github.com/Prozi/detect-collisions)
 - 🚀 [fluffy-memleak](https://github.com/Prozi/fluffy)
+
+Also I've made few browser games across last few years which are collected here:
+- 🚀 [pietal.dev](https://pietal.dev)
