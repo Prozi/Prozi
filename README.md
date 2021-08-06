@@ -16,4 +16,4 @@ Also I've made few browser games across last few years which are collected here:
 - 🚀 [pietal.dev](https://pietal.dev)
 - 🚀 [vikingsvillage.io](https://vikingsvillage.io)
 
-![](https://pietal.dev/assets/img/screenshot/screenshot-06.jpg)
+![](https://pietal.dev/assets/img/screenshot/screenshot-06.jpg?v=2)
