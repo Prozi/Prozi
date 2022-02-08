@@ -1,4 +1,4 @@
-# Hi there fellow developer 👋
+# Hello developer 👋
 
 ## I think you will like most:
 - 🚀 [@jacekpietal/bouncer.js](https://github.com/Prozi/bouncer.js)
