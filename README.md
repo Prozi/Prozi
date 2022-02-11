@@ -1,7 +1,7 @@
 # Hello developer 👋
 
 ## I think you will like most:
-- 🚀 [@jacekpietal/bouncer.js](https://github.com/Prozi/bouncer.js)
+- 🚀 [chef-js](https://github.com/chef-js/)
 - 🚀 [@jacekpietal/oneforall](https://github.com/Prozi/oneforall)
 - 🚀 [pixi-shim](https://github.com/Prozi/pixi-shim)
 - 🚀 [detect-collisions](https://github.com/Prozi/detect-collisions)
