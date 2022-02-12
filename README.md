@@ -1,10 +1,10 @@
 # Hello developer 👋
 
 ## I think you will like most:
-- 🚀 [chef-js](https://github.com/chef-js/)
-- 🚀 [@jacekpietal/oneforall](https://github.com/Prozi/oneforall)
-- 🚀 [pixi-shim](https://github.com/Prozi/pixi-shim)
-- 🚀 [detect-collisions](https://github.com/Prozi/detect-collisions)
+- 🚀 [chef-js](https://github.com/chef-js/) - spa files server with websockets
+- 🚀 [@jacekpietal/oneforall](https://github.com/Prozi/oneforall) - unity inspired gamedev library
+- 🚀 [pixi-shim](https://github.com/Prozi/pixi-shim) - node.js canvas mock
+- 🚀 [detect-collisions](https://github.com/Prozi/detect-collisions) - collision detection library
 
 ## Later try those:
 - 🚀 [@jacekpietal/dependency-injection](https://github.com/Prozi/dependency-injection) [fork]
