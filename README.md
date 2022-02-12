@@ -6,14 +6,6 @@
 - 🚀 [pixi-shim](https://github.com/Prozi/pixi-shim) - node.js canvas mock
 - 🚀 [detect-collisions](https://github.com/Prozi/detect-collisions) - collision detection library
 
-## Later try those:
-- 🚀 [@jacekpietal/dependency-injection](https://github.com/Prozi/dependency-injection) [fork]
-- 🚀 [pixi-stats](https://github.com/Prozi/pixi-stats)
-- 🚀 [tiled-utils](https://github.com/Prozi/tiled-utils) [fork]
-- 🚀 [2d-dungeon](https://github.com/Prozi/dungeon-generator) [fork]
-- 🚀 [latermom](https://github.com/Prozi/latermom)
-- 🚀 [fluffy-memleak](https://github.com/Prozi/fluffy)
-
 ## My browser games:
 - 🚀 [vikingsvillage.io](https://www.vikingsvillage.io/game/)
 - 🚀 [pietal.dev](https://pietal.dev)
