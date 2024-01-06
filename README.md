@@ -4,8 +4,8 @@
 
 - 🚀 [detect-collisions](https://github.com/Prozi/detect-collisions) - collision detection library
 - 🚀 [@jacekpietal/oneforall](https://github.com/Prozi/oneforall) - unity inspired gamedev library
+- 🚀 [chef-express](https://github.com/chef-js/express) - like http-server, but better
 - 🚀 [pixi-shim](https://github.com/Prozi/pixi-shim) - node.js canvas mock
-- 🚀 [chef-express](https://github.com/chef-js/express) - cli spa files server
 
 ### My opensource stats:
 
