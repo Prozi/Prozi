@@ -2,7 +2,10 @@
 
 ### My top libraries:
 
-https://www.npmjs.com/~pietal.dev
+- [chef-js file server cli](https://github.com/chef-js)
+- [my npm packages](https://www.npmjs.com/~pietal.dev)
+- [detect-collisions fast in 2d](https://github.com/Prozi/detect-collisions)
+- [pixi-stats webgl fps etc](https://github.com/Prozi/pixi-stats)
 
 ### My opensource stats:
 
@@ -11,7 +14,6 @@ https://www.npmjs.com/~pietal.dev
 ### My packages in use:
 - 🚀 [www.vikingsvillage.io/game/](https://www.vikingsvillage.io/game/)
 - 🚀 [pietal.dev](https://pietal.dev)
-- 🚀 [magic.pietal.dev](https://magic.pietal.dev)
 - 🚀 [code.pietal.dev](https://code.pietal.dev)
 
 [![vvph](https://user-images.githubusercontent.com/3052357/153716025-65b88cf5-1097-4d14-bff5-8d572dc6550f.jpg)
