@@ -13,5 +13,6 @@
 
 ### My libraries in use:
 
-- 🚀 [pietal.dev](https://pietal.dev)
-- 🚀 [code.pietal.dev](https://code.pietal.dev)
+- [pietal.dev](https://pietal.dev)
+- [retro.beer](https://retro.beer)
+- [code.pietal.dev](https://code.pietal.dev)
